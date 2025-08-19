@@ -1,4 +1,5 @@
 mod cmd;
+mod fsutil;
 
 use clap::Parser;
 

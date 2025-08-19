@@ -1,4 +1,5 @@
 use clap::{Parser, Subcommand};
+use super::fsutil;
 
 pub mod find;
 pub mod rm;
